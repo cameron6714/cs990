@@ -1,4 +1,4 @@
-public class Payroll
+public class Payroll 1
 {
 	private int employeeId, hours;
 	private double payRate;
